@@ -1,7 +1,7 @@
 # base-smart-contracts
 Core smart contracts and token deployment configurations for the Base network ecosystem.
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
+pragma solidity ^0.8.07;
 
 /**
  * @title BaseNetworkTestToken
